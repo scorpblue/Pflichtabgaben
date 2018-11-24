@@ -1,1 +1,3 @@
-Abgabe für Aufgabe 4
+Abgabe für Aufgabe 4 von:
+Dominik Schulz
+Oliver Neumann
