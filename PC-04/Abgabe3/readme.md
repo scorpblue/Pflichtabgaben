@@ -1,3 +1,3 @@
-Abgabe für Aufgabe 2 von:
+Abgabe für Aufgabe 3 von:
 Dominik Schulz
 Oliver Neumann
