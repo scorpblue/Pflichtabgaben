@@ -1,4 +1,4 @@
-package Abgabe3;
+package Abgabe4;
 public class CSuv extends CAuto {
 	private final boolean m_offroadFahrbar;
 

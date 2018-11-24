@@ -1,4 +1,4 @@
-package Abgabe3;
+package Abgabe4;
 public interface IFahrzeug {
 	void schalte(final int p_gang);
 

@@ -1,4 +1,4 @@
-package Abgabe3;
+package Abgabe4;
 public enum EAutoTyp {
 	SEDAN,
 	HATCHBACK,
