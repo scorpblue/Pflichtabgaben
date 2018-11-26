@@ -1,0 +1,1 @@
+Abgabe von Aufgabe 4 Lennart Brinkmann
