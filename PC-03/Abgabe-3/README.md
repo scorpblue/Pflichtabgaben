@@ -1,1 +1,1 @@
-Abgabe von Aufgabe 3 Lennart Brinkmann
+Abgabe von Aufgabe 3 Lennart Brinkmann und Sophie Hartmann

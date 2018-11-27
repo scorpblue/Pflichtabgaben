@@ -1,1 +1,1 @@
-Abgabe von Aufgabe 4 Lennart Brinkmann
+Abgabe von Aufgabe 4 Lennart Brinkmann und Sophie Hartmann
